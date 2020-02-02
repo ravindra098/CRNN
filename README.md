@@ -1,5 +1,3 @@
-# CRNN
-
 ## CRNN
 A pytorch implementation of CRNN，and test it with IIIT-5K.  
 Support PyTorch 1.0 now.
